@@ -1,5 +1,5 @@
 {
-    "name": "颜色识别器TCS34725",
+    "name": "OpenBot",
     "version": "0.0.1",
     "description": "",
     "dependencies": {
@@ -9,11 +9,12 @@
     "files": [
         "README.md",
         "main.ts",
-        "tcs34725.ts"
+        "tcs34725.ts",
+        "_locales/zh-cn/openbot-Kit-strings.json",
     ],
     "testFiles": [
         "test.ts"
     ],
     "public": false,
-    "preferredEditor": "yeti"
+    "preferredEditor": "openbot"
 }
